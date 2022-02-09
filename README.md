@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EGA
 - 👀 I’m interested in Cloud, Networking and Linux/DevOps environments
-- 🌱 I’m currently learning IoT and AWS Cloud
+- 🌱 I’m currently learning AWS and Kubernetes
 - 💞️ I’m looking to collaborate on Infrastructure or Hybrid Cloud Projects
 - 📫 How to reach me ...  
     E-mail : egafosso@gmail.com  
