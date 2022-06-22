@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EGA
-- 👀 I’m interested in Cloud, Infra and DevOps
-- 🌱 I’m currently learning AWS and Kubernetes
-- 💞️ I’m looking to collaborate on Infrastructure or Hybrid Cloud Projects
+- 👀 I’m interested in Cloud, Infra and Ops
+- 🌱 I’m continuously improving in AWS Cloud, Networking, Automation and some common used DevOps tools
+- 💞️ I’m looking to collaborate on Infrastructure, Hybrid or multi-Cloud, and DevOps Projects
 - 📫 How to reach me ...  
     E-mail : egafosso@gmail.com  
     LinkedIn : https://www.linkedin.com/in/ega-fosso/
